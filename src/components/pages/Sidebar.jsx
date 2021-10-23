@@ -7,18 +7,18 @@ function Sidebar() {
       <div className="list">
         <ul>
           <li>
-            <a style={{ textDecoration: "none" }} href="sketches">
-              Sketches
+            <a style={{ textDecoration: "none" }} href="clothing">
+              Clothing
             </a>
           </li>
           <li>
-            <a style={{ textDecoration: "none" }} href="paintings">
-              Paintings
+            <a style={{ textDecoration: "none" }} href="electronics">
+              Electronics
             </a>
           </li>
           <li>
-            <a style={{ textDecoration: "none" }} href="wall_paintings">
-              Wall Paintings
+            <a style={{ textDecoration: "none" }} href="food">
+              Food
             </a>
           </li>
         </ul>
