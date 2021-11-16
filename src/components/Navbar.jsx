@@ -1,12 +1,12 @@
 import React from "react";
 import "./Navbar.css";
-// import { AppleLogo } from "./images/Apple-logo.png";
+import AppleLogo from "../images/Apple-logo.png";
 
 function Navbar() {
   return (
     <div className="navbar">
       <ul>
-        <li>0</li>
+        <li><img className="logo_image" src={AppleLogo} alt="apple logo"/></li>
         <li>Store</li>
         <li>Mac</li>
         <li>iPad</li>

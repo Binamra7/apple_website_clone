@@ -1,0 +1,43 @@
+.nextIphone {
+  margin-top: 135px;
+  display: grid;
+  place-items: center;
+}
+
+.iphone13__image {
+  transform: scale(2.2);
+  width: 100%;
+  z-index: -999;
+  opacity: 100%;
+}
+.description_13 {
+  z-index: 999;
+  margin-top: 1.5rem;
+}
+.iphone13__text {
+  color: #f5f5f7;
+  z-index: 999;
+  font-size: 3rem;
+}
+.iphone13__text_2 {
+  color: #fec2eb;
+}
+.shop__gift a {
+  margin-left: 3rem;
+}
+.shop__gift {
+  background-color: white;
+  color: #257cd4;
+  font-size: 1.3rem;
+  margin-left: -3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.shop__gift_text {
+  color: #257cd4;
+}
+/* .iphone13__text,
+.shop__gift,
+.shop__gift_text {
+} */

@@ -5,6 +5,9 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  position: fixed;
+  opacity: 97%;
+  top: 0;
 }
 ul {
   color: #cccccc;
@@ -22,6 +25,14 @@ ul li {
 }
 
 ul li:hover {
+  color: white;
+}
+
+.logo_image {
+  height: 1rem;
+  width: 1rem;
+}
+img:hover {
   color: white;
 }
 

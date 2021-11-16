@@ -1,0 +1,23 @@
+.holiday_logo img {
+  height: 55px;
+  width: 45px;
+}
+.hero {
+  padding: 2rem;
+  display: grid;
+  place-items: center;
+}
+.hoLo {
+  padding: 1rem;
+}
+.hero_text {
+  font-size: 3rem;
+}
+.shop_gift {
+  background-color: white;
+  color: #257cd4;
+  font-size: 1.3rem;
+}
+.shop_gift_text {
+  color: #257cd4;
+}

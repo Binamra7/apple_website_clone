@@ -4,7 +4,7 @@ import "./NavOffer.css";
 function NavOffer() {
   return (
     <div className="navoffer">
-      <h2>
+      <h2 className="thisH2">
         Shop early for the best selection of holiday favorites.&nbsp;
         <a href="https://www.google.com">Shop now</a>
         &nbsp; &gt;

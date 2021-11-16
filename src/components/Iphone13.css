@@ -1,0 +1,41 @@
+html {
+  overflow-x: hidden;
+}
+
+.iphone13 {
+  padding: 3rem;
+  display: grid;
+  place-items: center;
+}
+.holiday_logo img {
+  height: 55px;
+  width: 45px;
+}
+.iphone13_image {
+  transform: scale(2.4);
+  width: 100%;
+  z-index: -9;
+  margin-top: -3rem;
+}
+.hoLo {
+  padding: 1rem;
+}
+.iphone13_text {
+  z-index: 999;
+  font-size: 3rem;
+}
+.shop_gift a {
+  margin-left: 3rem;
+}
+.shop_gift {
+  /* background-color: white; */
+  color: #257cd4;
+  font-size: 1.3rem;
+  margin-left: -3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.shop_gift_text {
+  color: #257cd4;
+}
