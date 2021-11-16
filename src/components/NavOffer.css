@@ -1,0 +1,15 @@
+h2 {
+  background-color: #e34140;
+  color: white;
+  text-align: center;
+  font-size: 0.75rem;
+  padding: 0.8rem;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+a:hover {
+  text-decoration: underline;
+}
