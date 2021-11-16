@@ -9,7 +9,7 @@ function nextIphone() {
       <div className="description_13">
         <h1 className="iphone13__text">iPhone 13</h1>
         <h3 className="iphone13__text_2">Your new superpower.</h3>
-        <h2 className="shop__gift" style={{backgroundColor: "transparent"}}>
+        <h2 className="shop__gift" style={{ backgroundColor: "transparent" }}>
           <a href="https://www.apple.com" className="shop__gift_text">
             Learn More
           </a>
@@ -23,7 +23,7 @@ function nextIphone() {
       <img
         className="iphone13__image"
         src={Image14}
-        alt="iphone just 13 image"
+        alt="iphone just 13 product pic"
       />
     </div>
   );

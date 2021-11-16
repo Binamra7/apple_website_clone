@@ -16,6 +16,7 @@ html {
   width: 100%;
   z-index: -9;
   margin-top: -3rem;
+  max-width: 1366px;
 }
 .hoLo {
   padding: 1rem;

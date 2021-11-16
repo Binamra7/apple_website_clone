@@ -18,7 +18,7 @@ function Iphone13() {
         </a>
         &nbsp; &gt;
       </h2>
-      <img className="iphone13_image" src={Image13} alt="iPhone 13 image" />
+      <img className="iphone13_image" src={Image13} alt="iPhone 13 imagge" />
     </div>
   );
 }

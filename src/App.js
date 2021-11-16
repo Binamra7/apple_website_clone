@@ -5,6 +5,7 @@ import NextIphone from "./components/NextIphone";
 import Navbar from "./components/Navbar";
 import NavOffer from "./components/NavOffer";
 import Products from "./components/Products";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -14,7 +15,8 @@ function App() {
       <Hero />
       <Iphone13 />
       <NextIphone />
-      <Products/>
+      <Products />
+      <Footer/>
     </div>
   );
 }

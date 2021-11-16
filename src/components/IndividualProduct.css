@@ -1,5 +1,36 @@
 .product-item {
-  height: 37%;
-  width: 50%;
-  background-color: turquoise;
+  /* height: 665px; */
+  height: 600px;
+  width: 624px;
+  /* background-color: turquoise; */
+  /* opacity: 30%; */
+  /* DO not change the padding value*/
+  padding: 1rem;
+  margin-top: 2rem;
+  display: grid;
+  place-items: center;
+}
+
+.product__text {
+  display: grid;
+  place-items: center;
+}
+.productLinks {
+  display: flex;
+}
+.learnMore a,
+.buy a {
+  color: #257cd4;
+  font-size: 17px;
+}
+.productName {
+  font-size: 36px;
+  font-weight: bold;
+}
+.productDesc {
+  font-size: 17px;
+}
+.product__image {
+  margin-top: -20rem;
+  z-index: -99;
 }

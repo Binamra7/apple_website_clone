@@ -6,9 +6,19 @@
   align-items: center;
   justify-content: center;
   position: fixed;
-  opacity: 97%;
+  opacity: 98%;
   top: 0;
+  z-index: 9999;
+  /* filter: blur(1px); */
 }
+/* {
+  -webkit-backdrop-filter: none;
+  backdrop-filter:;
+  -webkit-transition: background 0.44s 0.2s cubic-bezier(0.52, 0.16, 0.24, 1),
+    height 0.56s cubic-bezier(0.52, 0.16, 0.24, 1);
+  transition: background 0.44s 0.2s cubic-bezier(0.52, 0.16, 0.24, 1),
+    height 0.56s cubic-bezier(0.52, 0.16, 0.24, 1);
+} */
 ul {
   color: #cccccc;
   display: flex;
