@@ -11,15 +11,6 @@
   top: 0;
   z-index: 9999;
 }
-/* filter: blur(1px); */
-/* {
-  -webkit-backdrop-filter: none;
-  backdrop-filter:;
-  -webkit-transition: background 0.44s 0.2s cubic-bezier(0.52, 0.16, 0.24, 1),
-    height 0.56s cubic-bezier(0.52, 0.16, 0.24, 1);
-  transition: background 0.44s 0.2s cubic-bezier(0.52, 0.16, 0.24, 1),
-    height 0.56s cubic-bezier(0.52, 0.16, 0.24, 1);
-} */
 ul {
   color: #cccccc;
   display: flex;
@@ -46,11 +37,23 @@ ul li:hover {
 img:hover {
   color: white;
 }
+/* Below is the extra codes that helps to create the navbar filter as it is in the original Apple website
+*/
+
+/* filter: blur(1px); */
+/* {
+  -webkit-backdrop-filter: none;
+  backdrop-filter:;
+  -webkit-transition: background 0.44s 0.2s cubic-bezier(0.52, 0.16, 0.24, 1),
+    height 0.56s cubic-bezier(0.52, 0.16, 0.24, 1);
+  transition: background 0.44s 0.2s cubic-bezier(0.52, 0.16, 0.24, 1),
+    height 0.56s cubic-bezier(0.52, 0.16, 0.24, 1);
+} */
 
 /*
-    #333333
-    #e34140
-    #b3d38d--#c0759c
+#333333
+#e34140
+#b3d38d--#c0759c
 
 
 */
