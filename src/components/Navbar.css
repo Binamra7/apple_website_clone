@@ -6,8 +6,6 @@
   align-items: center;
   justify-content: center;
   position: fixed;
-  /* opacity: 100%; */
-
   top: 0;
   z-index: 9999;
 }
@@ -16,7 +14,6 @@ ul {
   display: flex;
   justify-content: space-evenly;
   list-style-type: none;
-  /* padding: 0, 2rem, 0, 2rem; */
   font-size: 0.7rem;
   margin-left: 15%;
   margin-right: 15%;
