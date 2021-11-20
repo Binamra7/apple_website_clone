@@ -7,6 +7,8 @@ import airpods from "../images/airpods.jpg";
 import watch from "../images/watch.jpg";
 
 function Products() {
+
+  //constant products array
   const description = [
     {
       name: "MacBook Pro",
