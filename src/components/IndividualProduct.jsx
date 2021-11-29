@@ -6,7 +6,6 @@ function IndividualProduct(props) {
     <div className="product-item">
       <div className="product__text">
         <div className="productName">{props.text.name}</div>
-
         <div className="productDesc">{props.text.info}</div>
         <div className="productLinks">
           <div className="learnMore">
