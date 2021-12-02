@@ -1,6 +1,5 @@
 import React from 'react'
 import "./Footer.css"
-
 import footer from "../images/footer.PNG"
 
 function Footer() {
@@ -10,5 +9,4 @@ function Footer() {
         </div>
     )
 }
-
 export default Footer;
